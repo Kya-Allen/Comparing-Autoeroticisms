@@ -43,6 +43,56 @@ Subjects were asked to describe how embodiment does or does not play a role in t
 
 **dimorphism (self-rating of physical masculinity vs femininity):** 1 = highly masculine; 7 = highly feminine
 
+# My Planned Confirmatory Analysis
+
+**Key Variables:**
+
+- Factor Scores on the ESFQ arousal to own body/self subscale (via Evan Fertel, 2021 EFA)
+- Factor Scores on the adjusted and unadjusted GAS Anatomic AGP subscale (via Hsu et al., 2015 EFA)
+- Sex/Gender
+
+### Hypothesis 1:
+
+We hypothesized that the items assessing anatomic autogynephilia lack divergent validity w/ measures of ESF to a notable extent, even if they are not exatly identical. 
+
+**r** = Pearson Correlation Coefficient between GAS AGP subscale (factor scored), and ESFQ arousal to own body/self subscale (factor scored)
+
+- **H_0: r** <= 0.50
+- **H_a: r** > 0.50
+
+Pre-Registration suggests we will take any **r** > 0.5 as confirmation. This is not to say **r** > 0.5 is evidence they measure the same construct entirely, just that there may be signal contamination, given that ESF validated as a characteristic construct in heterosexual cis women, should theoretically be entirely uassociated with AGP. 
+
+Note: Due to the non-representative sampling, there may be a misspecification in the model which should perhaps be a hierarchical model. For Confirmatory Analysis, we will stick to what is outlined in the pre-registration, and we will explore alternative modeling options in the Exploratory Analysis. 
+
+### Hypothesis 2:
+
+We hypothesized, based on past data from Veale et al., that the adjustment to the Anatomic AGP subscale would increase cis women's scores on the scale.
+
+**X_1** = Mean of Cis Women in Effect group; 
+**X_2** = Mean of Cis Women in Control Group
+
+**d** = **X_1** - **X_2**; Mean difference between Control Cis Women, and Effect Cis Women.
+
+- **H_0: d** <= 0
+- **H_a: d** > 0
+
+t-test for independent samples, unequal variances
+
+### Hypothesis 3:
+
+We hypothesized that the effect of the adjustments on subjects responses would be greater for cis women than for trans women, and thus bring their score closer together relative to controls
+
+**d_1** = Mean Difference between trans vs cis women in control group;
+**d_2** = Mean Difference between trans vs cis women in Effect group 
+
+- **H_0: d_2** >= **d_1**
+- **H_a: d_2** < **d_1**
+
+t-test for independent samples, unequal variances
+
+
+Hypothesis 2 and 3 will be treated as two tests of a single idea, and thus will be presented alongside a bonferonni correction
+
 # Appendix
 
 ## Informed Consent Block
