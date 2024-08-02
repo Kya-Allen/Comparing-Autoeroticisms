@@ -17,7 +17,7 @@ Variable: (csv_column_label) (response type)
 Subjects were asked to select their sex/gender from a list of options, each specifying a gender identity and an indicator of assigned sex at birth. Additionally, subjects were allowed to select "other" and write in their own identity.
 
 **Kinsey Scale:** (kinsey_scale) (7-Point Likert)
-Subjects were asked to rate their sexual orientation from exclusively gynesexual to exclusively androsexual
+Subjects were asked to rate their sexual orientation from exclusively gynesexual to exclusively androsexual. Subjects were asked to leave this blank if they identify as asexual
 
 **HRT:** (HRT) (binary response)
 Subjects were asked whether or not they take cross-sex hormones for the purpose of gender/sex transition
