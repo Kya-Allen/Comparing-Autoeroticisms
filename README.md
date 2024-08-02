@@ -220,6 +220,10 @@ Original Work
 
 The work remained listed for a few months, But unfortunately I was required to take it down, and I forgot to record how many hits it got before I took it down. oops. It seemed like a lot tho. There were certainly serveral comments
 
+### Twitter
+
+The survey was also posted to the @Vexed_Vortices twitter account during each of these sampling phases. the account currently has 330 followers, and probably has more like ~200-250 during the sampling period. A following of mostly trans women probably
+
 ## Scales & Items
 
 ### Erotic Self-Focus Questionnaire, Arousal to own Body Subscale (ESFQ)
