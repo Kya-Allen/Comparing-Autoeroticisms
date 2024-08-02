@@ -57,3 +57,162 @@ I have been informed that my participation in this research is voluntary. I have
 There are no known risks involved in completing the survey, and there are no tangible benefits. However, in completing the survey you may play a part in combating potentially harmful false narratives in the field of sexology, that disproportionately impact queer women. 
 
 Options: "I Agree" ; "I Disagree"
+
+## Sampling Sources
+
+### Tumblr
+Two sampling sessions were conducted through tumblr.
+
+The Fist Session (12/11/23) made use of the paid "Blaze" feature. This resulted in 2500 impressions targeting US English speakers
+Additionally, the following Hashtags were attatched:
+
+#feminism
+#transgender
+#trans
+#lgbtq
+#psychology
+#transsexual
+#lgbtqia
+#lesbian
+#sapphic
+#bisexual
+#social justice
+#transfem
+#nonbinary
+#lgbt
+#queer
+#gender
+#smut
+#fanfic
+#fanfiction
+#uquiz
+#personality quiz
+#fandom
+#fan fic
+#fan fiction
+
+The Second Session (12/17) did not use the paid "Blaze" feature, and impressions were not recorded, nor likes. For this round, the following trending tags were attatched to maximize exposure:
+
+#transmedicalism
+#goodtimeswithscar
+#pokemon
+#hlvrai
+#christmas
+#one piece
+#coraline
+#mythology
+#good omens
+
+### Reddit
+
+For a single session (12/18) the survey was posted to several subreddits. Some of these posts were immediately deleted:
+
+r/AO3 - (deleted)
+r/FanFiction - (deleted)
+r/psychologyOfSex (12/18/2023)
+r/Transmedical - (deleted)
+r/Truscum - (deleted)
+r/bisexual (12/18/2023)
+r/destiny (12/18)
+
+### Discord
+
+At an unrecorded later date, the survey was posted in text channels from the following public discord servers:
+
+Vaush's Praxis Emporium (A community for an american far left wing political streamer, known for trans positivity)
+r/fanfiction (A community for users of the r/fanfiction subreddit, as well as other people interested in a community for fanfiction writers)
+destiny.gg (A communuty for an american center left wing political streamer)
+The Super Ego (A community for a psychology and center-left politics streamer)
+DIRL (A community for a drama & lifestyle kick streamer)
+Honey Bees (A Community for a fans of a lesbian ship between two characters in the animated roosterteeth show RWBY)
+
+### Archive of our Own (AO3)
+
+At an unrecorded later date, the survey was posted as a work under several highly popular fandom (Intellectual Property) categories on Archive of Our Own (a website for fanfiction)
+
+Stranger Things (TV 2016)
+Harry Potter - J. K. Rowling
+原神 | Genshin Impact (Video Game)
+文豪ストレイドッグス | Bungou Stray Dogs
+Call of Duty (Video Games)
+Our Flag Means Death (TV)
+僕のヒーローアカデミア | Boku no Hero Academia | My Hero Academia (Anime & Manga)
+Minecraft (Video Game)
+Wednesday (TV 2022)
+Stray Kids (Band)
+The Sandman (TV 2022)
+House of the Dragon (TV)
+The Owl House (Cartoon)
+Good Omens (TV)
+Trigun Stampede (Anime 2023)
+Original Work
+
+The work remained listed for a few months, But unfortunately I was required to take it down, and I forgot to record how many hits it got before I took it down. oops. It seemed like a lot tho. There were certainly serveral comments
+
+## Scales & Items
+
+### Erotic Self-Focus Questionnaire, Arousal to own Body Subscale (ESFQ)
+
+all of the following questions are from the Arousal to own Body subscale of the ESFQ from "It's not you, it's me: Measuring Erotic Self-Focus" by Evan Fertel, 2021
+
+the scale was headed off with "For the following questions, respond with whether the statement is "Not at all" true or "Very much" true for yourself." 
+all questions had a 7-point Likert response format ranging from "Not At All" to "Very Much"
+
+ESFQ_1 - I find it exciting to walk around the house naked
+ESFQ_2 - I find it exciting to walk around the house alone naked. 
+ESFQ_3 - I feel sexy when I am naked.  
+ESFQ_4 - To what extent do the following activities help get you in the mood for sex? Looking at myself in the mirror naked  
+ESFQ_5 - I have been excited by the experience of catching a glimpse of my reflection in a mirror while naked or in a state of undress.
+ESFQ_6 - I feel sexy when I wear a bathing suit.  
+ESFQ_7 - To what extent do the following activities help get you in the mood for sex? Looking at myself in the mirror in my undergarments  
+ESFQ_8 - I experience a sexual energy when I walk a certain way (e.g., swinging my hips, strutting with confidence or swagger).   
+ESFQ_9 - It is arousing to wear sexy underwear underneath my clothes, especially when I am the only one who knows I am wearing them.   
+ESFQ_10 - I enjoy the feeling of being naked.  
+ESFQ_11 - It is sexually exciting to go out without wearing underwear.  
+ESFQ_12 - I have been excited by the experience of catching a glimpse of my reflection in a mirror or window in public.   
+ESFQ_13 - I have found that feeling a strong sense of connectedness with my own body can be an erotic experience.   
+ESFQ_14 - I get turned on by my own sense of masculinity/femininity.  
+ESFQ_15 - I am aroused by the appearance of my own genitals in an aroused state (i.e., hard, engorged, wet).  
+ESFQ_16 - During sex, how much of a turn on is it for me to think of, or imagine, how I look as I am having sex?   
+ESFQ_17 - I have been aroused by the physical sensations of exercising/working out.  
+ESFQ_18 - During sex, how much of a turn on is it for me to think about how hard or wet I am?  
+ESFQ_19 - The experience of dancing alone (i.e., without a partner) can feel erotic or arousing.  
+ESFQ_20 - Would I want to have sex with me?  
+ESFQ_21 - Outside of sexual activity, I enjoy my own physical touch (for example, sliding or rubbing my fingers against my own skin or massaging my own body).   
+
+### Generalized Autogynephilia Scale, Anatomic Autogynephilia Subscale (AGP)
+
+the following questions are from "the psychometric structure of items assesing autogynephilia" by Hsu et al (2015)
+
+The scale was headed off with "How sexually arousing would you find each of the following activities?" 
+all questions had a 5-point Likert response formate ranging from "Not at all arousing" to "Very Arousing"
+
+AGP_1 - The thought of being a woman.  
+AGP_2 - Picturing myself having a nude female body or certain features of the nude female form.
+AGP_3 - Picturing myself with a woman’s breasts.
+AGP_4 - Picturing myself with a woman’s buttocks.
+AGP_5 - Picturing myself with a woman’s legs.
+AGP_6 - Picturing myself with a vagina/vulva.
+AGP_7 - Picturing myself with a woman’s face.
+
+### The Adjusted Anatomic Autogynephelia Scale (AAGP)
+
+The following questions are my own adjustment of the items from the Anatomic subscale of the Generalized Autogynephilia Scale by Hsu et al. (2015)
+The adjustments are heavily inspired by the adjustment Veale et al (2014) made to the Core Autogynephilia Scale. The rationale behind the adjustment was to attempt to mitigate a theorized source of *hypothetically* expected measurement non-invariance
+
+The scale was headed off with "How sexually arousing would you find each of the following activities?" 
+all questions had a 5-point Likert response formate ranging from "Not at all arousing" to "Very Arousing"
+
+AAGP_1 - The thought of being a particularly attractive and feminine woman.
+AAGP_2 - Picturing myself having a particularly attractive and feminine nude female body or certain features of the nude female form.
+AAGP_3 - Picturing myself with particularly attractive and feminine breasts.  
+AAGP_4 - Picturing myself with a particularly attractive and feminine buttocks.
+AAGP_5 - Picturing myself with particularly attractive and feminine legs.
+AAGP_6 - Picturing myself with a particularly attractive and feminine vagina/vulva.
+AAGP_7 - Picturing myself with a particularly attractive and feminine face.
+
+### Free Response (testimony)
+
+In addition to being required to complete the scales, subjects were optionally asked to write out a free response to the following question:
+
+"Briefly describe how/why or to what extent your awareness/perception of your own body is relevant to your sexual fantasies, or the way you feel about actual sexual encounters."
