@@ -171,10 +171,15 @@ r/destiny (12/18)
 At an unrecorded later date, the survey was posted in text channels from the following public discord servers:
 
 Vaush's Praxis Emporium (A community for an american far left wing political streamer, known for trans positivity)
+
 r/fanfiction (A community for users of the r/fanfiction subreddit, as well as other people interested in a community for fanfiction writers)
+
 destiny.gg (A communuty for an american center left wing political streamer)
+
 The Super Ego (A community for a psychology and center-left politics streamer)
+
 DIRL (A community for a drama & lifestyle kick streamer)
+
 Honey Bees (A Community for a fans of a lesbian ship between two characters in the animated roosterteeth show RWBY)
 
 ### Archive of our Own (AO3)
@@ -182,20 +187,35 @@ Honey Bees (A Community for a fans of a lesbian ship between two characters in t
 At an unrecorded later date, the survey was posted as a work under several highly popular fandom (Intellectual Property) categories on Archive of Our Own (a website for fanfiction)
 
 Stranger Things (TV 2016)
+
 Harry Potter - J. K. Rowling
+
 原神 | Genshin Impact (Video Game)
+
 文豪ストレイドッグス | Bungou Stray Dogs
+
 Call of Duty (Video Games)
+
 Our Flag Means Death (TV)
+
 僕のヒーローアカデミア | Boku no Hero Academia | My Hero Academia (Anime & Manga)
+
 Minecraft (Video Game)
+
 Wednesday (TV 2022)
+
 Stray Kids (Band)
+
 The Sandman (TV 2022)
+
 House of the Dragon (TV)
+
 The Owl House (Cartoon)
+
 Good Omens (TV)
+
 Trigun Stampede (Anime 2023)
+
 Original Work
 
 The work remained listed for a few months, But unfortunately I was required to take it down, and I forgot to record how many hits it got before I took it down. oops. It seemed like a lot tho. There were certainly serveral comments
