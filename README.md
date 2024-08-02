@@ -60,9 +60,10 @@ We hypothesized that the items assessing anatomic autogynephilia lack divergent 
 - **H_0: r** <= 0.50
 - **H_a: r** > 0.50
 
-Pre-Registration suggests we will take any **r** > 0.5 as confirmation. This is not to say **r** > 0.5 is evidence they measure the same construct entirely, just that there may be signal contamination, given that ESF validated as a characteristic construct in heterosexual cis women, should theoretically be entirely uassociated with AGP. 
+Pre-Registration suggests we will take any **r** > 0.5 as confirmation. This is not to say **r** > 0.5 is evidence they measure the same construct entirely, just that there may be signal contamination, given that ESF validated as a characteristic construct in heterosexual cis women, should theoretically be entirely uassociated with AGP.  
 
-Note: Due to the non-representative sampling, there may be a misspecification in the model which should perhaps be a hierarchical model. For Confirmatory Analysis, we will stick to what is outlined in the pre-registration, and we will explore alternative modeling options in the Exploratory Analysis. 
+#### Theoretical backing
+It is clear to see from the content of the items in each scale, that there is conceptual overlap that could lead to shared variance. See for example "ESFQ_7 - To what extent do the following activities help get you in the mood for sex? Looking at myself in the mirror in my undergarments" compared to "AGP_2 - Picturing myself having a nude female body or certain features of the nude female form." or consider "ESFQ_14 - I get turned on by my own sense of masculinity/femininity." compared to "AGP_1 - The thought of being a woman.". It seems very likely that there would be a notable degree of *manifest* overlap between people who score high on AGP and people who score high on ESFQ. This may be indicative of poor construct validity on one side or the other if we consider the fact that the AGP scale is intended to measure a specific latent construct 'Autogynephilia' which is specified as an Erotic Target Location Inversion of a gynephilic sexual orientation. On the other hand, the ESFQ was inspired by and found to be characteristic of the sexualities of Heterosexual Cisgender Women. A demographic where no theoretical justification exists for the commonality of autogynephilia, indicating some other autoerotic construct exists that the ESFQ is sensitive to. And there doesn't seem to be any reason this construct should correlate with AGP. 
 
 ### Hypothesis 2:
 
@@ -90,8 +91,8 @@ We hypothesized that the effect of the adjustments on subjects responses would b
 
 t-test for independent samples, unequal variances
 
-
-Hypothesis 2 and 3 will be treated as two tests of a single idea, and thus will be presented alongside a bonferonni correction
+#### Theoretical Backing
+Veale et al. have previously made minor adjustments to the Core AGP Scale when administering the test to a sample inclusing cis women, out of concern that the wording of the original questions may seem strange to cis women, inducing measurement non-invariance. It is unclear whether there is any measurement non-invariance between groups on the original questions, however at face value it seems likley. These are questions about how it feels to imagine yourself in a specific embodiment. It seems like the more you are simply used to always being in that mode of embodiment by default, the stranger the question is. It's just your default. It's just you and always has been. Additionally, existing research suggests that it is very common for scales to fail tests of measurment invariance between gender and age groups. Theoretically, using research on Object of Desire Self-Consciousness (ODSC) we could imagine that seeing oneself specifically as "attractive or more attractive" plays a key role in autoerotic appeal in women. If this is the case then we might also think compare to a cis female group, a trans female group will be disproportionately male-bodied. For a male-bodies person who identifies as a woman, and has this aforementioned mode of autoeroticism, it may be the case that merely imagining oneself as a woman, also inherently makes them feel "more attractive" necessarily, while for the cis female group it may not have this automatic enhancement effect. As such it may be reasonable to hypothesize that, if this mode of autoeroticism is behind the scores of both cis and trans women, then there should be some mean-structure non-invariance between groups, that is reduced by an adjustment to the question that specifies imagining oneself as "attractive or more attractive" or in the case of my own adjustment "Particularly attractive and feminine" 
 
 # Appendix
 
