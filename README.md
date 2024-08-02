@@ -7,7 +7,7 @@ The data is split into two datasets, each corresponding to either the control gr
 
 The data is from an online convenience sample. The link to the Google Apps Script was shared on several sites such as Twitter, and Subreddits of various topics, tags on tumblr etc. A list of each exact platform/community where the link was posted, along with available details on the number of likes/impressions on the post will be made available in the additional materials. We did not ask respondents to specify where they found the survey, so we can't be sure where responses come from.
 
-All subjects were required to indicate that they were 18 years or older, and that they consented to what was outlined in the Informed Consent Block.
+All subjects were required to indicate that they were 18 years or older, and that they consented to what was outlined in the Informed Consent Block. [see in appendix, at the bottom]
 
 # Measures:
 
@@ -42,3 +42,18 @@ Subjects were asked to describe how embodiment does or does not play a role in t
 **Kinsey Scale:** 0 = gynesexual; 6 = androsexual; 3 = bisexual; missing data = Asexual
 
 **dimorphism (self-rating of physical masculinity vs femininity):** 1 = highly masculine; 7 = highly feminine
+
+# Appendix
+
+## Informed Consent Block
+Thank you for taking an interest in our survey. First, we'd like you to read an informed consent form. 
+
+This study is designed to add to the body of research on the sexualities of underrepresented gender and sexual identity groups. Particularly on the relation between multiple constructs related to self-focus during erotic fantasies/experiences, and sex/gender. You will be asked to answer questions about your feelings regarding the relation between your erotic experiences, and your relationship to your body, or your conceptualization of it.
+
+No personal identifying information will be collected from you at any point in this survey. This includes your email, which may be associated with the google account you are accessing this survey on. Your data is entirely anonymous, and there is no way for us to find out who you are.
+
+I have been informed that my participation in this research is voluntary. I have been informed that data collected for this study will be retained by the investigators and may be shared in a de-identified form with peer-review journals, Institutional Review Boards (IRBs), and even the general public for the purpose of open-science.
+
+There are no known risks involved in completing the survey, and there are no tangible benefits. However, in completing the survey you may play a part in combating potentially harmful false narratives in the field of sexology, that disproportionately impact queer women. 
+
+Options: "I Agree" ; "I Disagree"
