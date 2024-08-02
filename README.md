@@ -230,25 +230,45 @@ the scale was headed off with "For the following questions, respond with whether
 all questions had a 7-point Likert response format ranging from "Not At All" to "Very Much"
 
 ESFQ_1 - I find it exciting to walk around the house naked
+
 ESFQ_2 - I find it exciting to walk around the house alone naked. 
-ESFQ_3 - I feel sexy when I am naked.  
+
+ESFQ_3 - I feel sexy when I am naked. 
+
 ESFQ_4 - To what extent do the following activities help get you in the mood for sex? Looking at myself in the mirror naked  
+
 ESFQ_5 - I have been excited by the experience of catching a glimpse of my reflection in a mirror while naked or in a state of undress.
-ESFQ_6 - I feel sexy when I wear a bathing suit.  
+
+ESFQ_6 - I feel sexy when I wear a bathing suit.
+
 ESFQ_7 - To what extent do the following activities help get you in the mood for sex? Looking at myself in the mirror in my undergarments  
+
 ESFQ_8 - I experience a sexual energy when I walk a certain way (e.g., swinging my hips, strutting with confidence or swagger).   
+
 ESFQ_9 - It is arousing to wear sexy underwear underneath my clothes, especially when I am the only one who knows I am wearing them.   
+
 ESFQ_10 - I enjoy the feeling of being naked.  
+
 ESFQ_11 - It is sexually exciting to go out without wearing underwear.  
+
 ESFQ_12 - I have been excited by the experience of catching a glimpse of my reflection in a mirror or window in public.   
-ESFQ_13 - I have found that feeling a strong sense of connectedness with my own body can be an erotic experience.   
+
+ESFQ_13 - I have found that feeling a strong sense of connectedness with my own body can be an erotic experience.  
+
 ESFQ_14 - I get turned on by my own sense of masculinity/femininity.  
+
 ESFQ_15 - I am aroused by the appearance of my own genitals in an aroused state (i.e., hard, engorged, wet).  
+
 ESFQ_16 - During sex, how much of a turn on is it for me to think of, or imagine, how I look as I am having sex?   
-ESFQ_17 - I have been aroused by the physical sensations of exercising/working out.  
+
+ESFQ_17 - I have been aroused by the physical sensations of exercising/working out.
+
 ESFQ_18 - During sex, how much of a turn on is it for me to think about how hard or wet I am?  
-ESFQ_19 - The experience of dancing alone (i.e., without a partner) can feel erotic or arousing.  
+
+ESFQ_19 - The experience of dancing alone (i.e., without a partner) can feel erotic or arousing. 
+
 ESFQ_20 - Would I want to have sex with me?  
+
 ESFQ_21 - Outside of sexual activity, I enjoy my own physical touch (for example, sliding or rubbing my fingers against my own skin or massaging my own body).   
 
 ### Generalized Autogynephilia Scale, Anatomic Autogynephilia Subscale (AGP)
@@ -259,11 +279,17 @@ The scale was headed off with "How sexually arousing would you find each of the 
 all questions had a 5-point Likert response formate ranging from "Not at all arousing" to "Very Arousing"
 
 AGP_1 - The thought of being a woman.  
+
 AGP_2 - Picturing myself having a nude female body or certain features of the nude female form.
+
 AGP_3 - Picturing myself with a woman’s breasts.
+
 AGP_4 - Picturing myself with a woman’s buttocks.
+
 AGP_5 - Picturing myself with a woman’s legs.
+
 AGP_6 - Picturing myself with a vagina/vulva.
+
 AGP_7 - Picturing myself with a woman’s face.
 
 ### The Adjusted Anatomic Autogynephelia Scale (AAGP)
@@ -275,11 +301,17 @@ The scale was headed off with "How sexually arousing would you find each of the 
 all questions had a 5-point Likert response formate ranging from "Not at all arousing" to "Very Arousing"
 
 AAGP_1 - The thought of being a particularly attractive and feminine woman.
+
 AAGP_2 - Picturing myself having a particularly attractive and feminine nude female body or certain features of the nude female form.
+
 AAGP_3 - Picturing myself with particularly attractive and feminine breasts.  
+
 AAGP_4 - Picturing myself with a particularly attractive and feminine buttocks.
+
 AAGP_5 - Picturing myself with particularly attractive and feminine legs.
+
 AAGP_6 - Picturing myself with a particularly attractive and feminine vagina/vulva.
+
 AAGP_7 - Picturing myself with a particularly attractive and feminine face.
 
 ### Free Response (testimony)
