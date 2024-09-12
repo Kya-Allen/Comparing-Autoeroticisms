@@ -94,6 +94,44 @@ t-test for independent samples, unequal variances
 #### Theoretical Backing
 Veale et al. have previously made minor adjustments to the Core AGP Scale when administering the test to a sample inclusing cis women, out of concern that the wording of the original questions may seem strange to cis women, inducing measurement non-invariance. It is unclear whether there is any measurement non-invariance between groups on the original questions, however at face value it seems likley. These are questions about how it feels to imagine yourself in a specific embodiment. It seems like the more you are simply used to always being in that mode of embodiment by default, the stranger the question is. It's just your default. It's just you and always has been. Additionally, existing research suggests that it is very common for scales to fail tests of measurment invariance between gender and age groups. Theoretically, using research on Object of Desire Self-Consciousness (ODSC) we could imagine that seeing oneself specifically as "attractive or more attractive" plays a key role in autoerotic appeal in women. If this is the case then we might also think compare to a cis female group, a trans female group will be disproportionately male-bodied. For a male-bodies person who identifies as a woman, and has this aforementioned mode of autoeroticism, it may be the case that merely imagining oneself as a woman, also inherently makes them feel "more attractive" necessarily, while for the cis female group it may not have this automatic enhancement effect. As such it may be reasonable to hypothesize that, if this mode of autoeroticism is behind the scores of both cis and trans women, then there should be some mean-structure non-invariance between groups, that is reduced by an adjustment to the question that specifies imagining oneself as "attractive or more attractive" or in the case of my own adjustment "Particularly attractive and feminine" 
 
+## Data Analysis
+
+Factor Scores are to be computed based on the models specified in through EFA in prior research on Autogynephilia and Erotic Self-Focus Scales. This is to ensure our approach has optimal measurement validity. [source] have shown that using sum scores is equivalent to a latent variable model where all items have equal loading on the factor. They have also shown that if this model is used for inference when the true loadings do not match, there is a bias in the inference.
+
+I neglected to specify in pre-registration which method would be used to compute factor scores, so take note of that. Regardless i've decided to use the Regression method from Thurstone (1935). Barlett's (1937) correction was considered, however it relies on the residual covariance matrix, which is not available in either case.
+
+### Factor Regression
+
+f<sub>i</sub><sub>1</sub> = The Score for the ith subject on the first factor\
+x<sub>ij</sub> = The ith subject's standardized score on the jth item of the scale\
+**w**<sub></sub> = **R**<sup>-1</sup>**$\lambda$**
+
+<center>
+f<sub>i</sub><sub>1</sub> = w<sub>11</sub>x<sub>i1</sub> + w<sub>12</sub>x<sub>i2</sub> + ... + w<sub>1p</sub>x<sub>in</sub>
+
+or 
+
+f<sub>i1</sub> = $\sum_{n=j}^{p}$ w<sub>11</sub>x<sub>ij</sub>
+
+or 
+
+**f**<sub>1</sub> = **w**<sub>1</sub>**x**<sub>1</sub>
+</center>
+
+where: **R** = the correlaton matrix;   **F** = the factor loading matrix
+
+(that means **R**<sup>-1</sup> is the partial correlation matrix)
+
+In other words, the factor score for an individual is computed by a linear regression summing their standardized score on each item.
+And weighting those scores by the ratio of global item correlation with the factor, to global correlation with the current item. In other words, the contribution of an item to a score on a given factor is proportional to how much that item's correlation with other items is explained by the correlation of the factor with those items.
+
+The Factor loadings are manually lifted from Hsu et al., (2015), and Fertel (2021). The empirical correlation matrices are not reported, so the implied covariance matrix **R** will be computed estimated on the reported factor loading matrix **$\lambda$** and the factor covariance matrix **$\Sigma$**<sub>ff</sub>
+
+<center>
+
+**R** = **$\Sigma$<sub>ff</sub>$\lambda$**<sup>T</sup>$\lambda$ + $\Psi$
+</center>
+
 # Appendix
 
 ## Informed Consent Block
