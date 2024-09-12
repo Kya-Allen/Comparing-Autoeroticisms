@@ -1,6 +1,18 @@
 # Comparing-Autoeroticisms
 This is a repository for my never-completed study on Autogynephilia and Erotic Self-Focus in Women
 
+# Abstract
+
+Blanchard's transsexual typology has been tested extensively since the theory first came to light, however there is as of yet no consensus on the success or failure of the theory among the researchers who have studied the topic. Much of the disagreement in the field stems from unclear psychometric foundations. The threat of scales that have not been throughly evaluated for measurement validity is the topic of many letters to editors about published papers that claim to support or reject hypotheses that follow from the theory. This study seeks to: (1) test the Anatomic subscale of the Generalized Autogynephelia Scale for divergent validity (signal purity) against the first factor of the Erotic Self-Focus Questionnaire (ESFQ), which claims to measure a separate autoerotic construct in cisgender heterosexual men and women; (2) Preliminarily test the validity of prior adjustments made to the Core Autogynephilia Scale with the intention of reducing hypothetical measurement non-invariance between cis women and trans women.
+
+#### Results
+
+The correlation in trans and cis women, between the Anatomic AGP subscale and the ESFQ was statistically significant, and at an effect size we identified as notable (r (raw) = 0.627; p-value = 0.000011; r (disattenuated = 0.660)
+
+#### Conclusion
+
+The correlation between the Anatomic AGP scale and the ESFQ suggests signal impurity in at least one of the two scales. This may pose a serious problem for the use of the Anatomic AGP scale to support Blanchard's Transsexual Typology. It is likely the scale is notably sensitive to some autogynerotic construct other than AGP, because high ESFQ scores are typical of cisgender heterosexual women, who by definition cannot be autogynephilic. Many moderate scores from trans women on AGP scales may actually reflect this other autoerotic construct the underlies Arousal to Own Body in Cisgender Heterosexual Men and Women
+
 # Data Description:
 
 The data is split into two datasets, each corresponding to either the control group (Control_group_responses.csv), or the effect group (Adjustment_group_responses.csv). The effect in question is an adjustment to the wording of the items of the Anatomic subscale of the Generalized Autogynephilia Scale [citation]. Each subject was randonly assigned to either the control group or the effect group using a Google Apps Script which, upon clicking the link, would automatically use a random number generator to randomly render either the Google Form with the unadjusted items, or the Google Form with the adjusted items. 
