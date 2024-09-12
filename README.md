@@ -7,11 +7,11 @@ Blanchard's transsexual typology has been tested extensively since the theory fi
 
 #### Results
 
-The correlation in trans and cis women, between the Anatomic AGP subscale and the ESFQ was statistically significant, and at an effect size we identified as notable (r (raw) = 0.627; p-value = 0.000011; r (disattenuated = 0.660)
+The correlation in trans and cis women, between the Anatomic AGP subscale and the ESFQ was statistically significant, and at an effect size we identified as notable (r (raw) = 0.627; p-value = 0.000011; r (disattenuated) = 0.660)
 
 #### Conclusion
 
-The correlation between the Anatomic AGP scale and the ESFQ suggests signal impurity in at least one of the two scales. This may pose a serious problem for the use of the Anatomic AGP scale to support Blanchard's Transsexual Typology. It is likely the scale is notably sensitive to some autogynerotic construct other than AGP, because high ESFQ scores are typical of cisgender heterosexual women, who by definition cannot be autogynephilic. Many moderate scores from trans women on AGP scales may actually reflect this other autoerotic construct the underlies Arousal to Own Body in Cisgender Heterosexual Men and Women
+The correlation between the Anatomic AGP scale and the ESFQ suggests signal impurity in at least one of the two scales. This may pose a serious problem for the use of the Anatomic AGP scale to support Blanchard's Transsexual Typology. It is likely the scale is notably sensitive to some autogynerotic construct other than AGP, because high ESFQ scores are typical of cisgender heterosexual women, for whom it would theoretically incoherent to say they are autogynephilic. Many moderate scores from trans women on AGP scales may actually reflect this other autoerotic construct the underlies Arousal to Own Body in Cisgender Heterosexual Men and Women
 
 # Data Description:
 
