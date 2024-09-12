@@ -132,6 +132,17 @@ The Factor loadings are manually lifted from Hsu et al., (2015), and Fertel (202
 **R** = **$\Sigma$<sub>ff</sub>$\lambda$**<sup>T</sup>$\lambda$ + $\Psi$
 </center>
 
+## Results
+
+### Correlation in trans & cis women between the Anatomic Autogynephilia Factorscore & the Arousal to Own Body Erotic Self-Focus Factorscore (AAGP x AtOB-ESFQ)
+
+#### Raw Correlation
+r = 0.6272691797610425
+p-value = 0.000011
+
+#### Dissatenuated correlation (using historical cronbach's alpha scores from Hsu et al. 2015; and Fertel, 2021)
+r = 0.6603199309519769
+
 # Appendix
 
 ## Informed Consent Block
